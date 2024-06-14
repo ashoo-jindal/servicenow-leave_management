@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="a9bbfe8047c635100230afb8036d43a4" extends="sys_import_set_row" label="department_aj" max_length="40" name="x_1066037_lms_department_aj" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Dept_Desc" label="Dept_Desc" max_length="40" name="u_dept_desc" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Dept_Code" label="Dept_Code" max_length="40" name="u_dept_code" type="string"/>
+    </element>
+</database>

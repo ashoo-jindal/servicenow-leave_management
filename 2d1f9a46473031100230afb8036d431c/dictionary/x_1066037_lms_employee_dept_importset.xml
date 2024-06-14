@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="3807f8fc470671100230afb8036d43a9" extends="sys_import_set_row" label="employee_dept_importset" max_length="40" name="x_1066037_lms_employee_dept_importset" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Emp Code" label="Emp Code" max_length="40" name="u_emp_code" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Emp Name" label="Emp Name" max_length="40" name="u_emp_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Country" label="Country" max_length="40" name="u_country" type="string"/>
+        <element attributes="import_attribute_name=SALARY" label="SALARY" max_length="40" name="u_salary" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=DOB" label="DOB" max_length="40" name="u_dob" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Department" label="Department" max_length="40" name="u_department" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=DOJ" label="DOJ" max_length="40" name="u_doj" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Gender" label="Gender" max_length="40" name="u_gender" type="string"/>
+    </element>
+</database>

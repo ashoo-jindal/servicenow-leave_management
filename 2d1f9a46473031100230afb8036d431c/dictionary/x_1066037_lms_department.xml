@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="cf2fe284478635100230afb8036d4302" label="Department" max_length="40" name="x_1066037_lms_department" type="collection">
+        <element display="true" label="Dept Desc" max_length="100" name="deptdesc" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Dept Code" max_length="10" name="dept_code" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="565cfac047c635100230afb8036d43e1" extends="sys_import_set_row" label="employee_aj" max_length="40" name="x_1066037_lms_employee_aj" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Gender" label="Gender" max_length="40" name="u_gender" type="string"/>
+        <element attributes="import_attribute_name=Emp_Code" label="Emp_Code" max_length="40" name="u_emp_code" type="integer"/>
+        <element attributes="import_attribute_name=Salary" label="Salary" max_length="40" name="u_salary" type="integer"/>
+        <element label="Department" max_length="32" name="department" reference="x_1066037_lms_department_aj" type="reference"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Date of Birth" label="Date of Birth" max_length="40" name="u_date_of_birth" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Emp_Name" label="Emp_Name" max_length="40" name="u_emp_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Date of Joining" label="Date of Joining" max_length="40" name="u_date_of_joining" type="glide_date"/>
+        <index name="index">
+            <element name="department"/>
+        </index>
+    </element>
+</database>

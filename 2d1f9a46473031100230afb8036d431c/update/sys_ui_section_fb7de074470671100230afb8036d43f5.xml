@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Department (LMS)" section_id="fb7de074470671100230afb8036d43f5" sys_domain="global" table="x_1066037_lms_department_aj" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-20 05:44:24</sys_created_on>
+            <sys_id>3d5f2cf4470671100230afb8036d4305</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Department (LMS)" display_value="Department (LMS)" name="x_1066037_lms_department_aj" sys_domain="global" view="Default view">fb7de074470671100230afb8036d43f5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-20 05:44:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_dept_code</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-20 05:44:24</sys_created_on>
+            <sys_id>b15f2cf4470671100230afb8036d4306</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Department (LMS)" display_value="Department (LMS)" name="x_1066037_lms_department_aj" sys_domain="global" view="Default view">fb7de074470671100230afb8036d43f5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-20 05:44:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_dept_desc</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-20 05:44:24</sys_created_on>
+            <sys_id>065f2cf4470671100230afb8036d4306</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Department (LMS)" display_value="Department (LMS)" name="x_1066037_lms_department_aj" sys_domain="global" view="Default view">fb7de074470671100230afb8036d43f5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-20 05:44:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-20 05:44:24</sys_created_on>
+            <sys_id>865f2cf4470671100230afb8036d4306</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Department (LMS)" display_value="Department (LMS)" name="x_1066037_lms_department_aj" sys_domain="global" view="Default view">fb7de074470671100230afb8036d43f5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-20 05:44:24</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_on</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-20 05:44:24</sys_created_on>
+            <sys_id>0a5f2cf4470671100230afb8036d4306</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Department (LMS)" display_value="Department (LMS)" name="x_1066037_lms_department_aj" sys_domain="global" view="Default view">fb7de074470671100230afb8036d43f5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-20 05:44:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_by</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-20 05:44:24</sys_created_on>
+            <sys_id>8a5f2cf4470671100230afb8036d4306</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Department (LMS)" display_value="Department (LMS)" name="x_1066037_lms_department_aj" sys_domain="global" view="Default view">fb7de074470671100230afb8036d43f5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-20 05:44:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_on</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-20 05:44:24</sys_created_on>
+            <sys_id>0e5f2cf4470671100230afb8036d4306</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Department (LMS)" display_value="Department (LMS)" name="x_1066037_lms_department_aj" sys_domain="global" view="Default view">fb7de074470671100230afb8036d43f5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-20 05:44:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_by</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-20 05:44:24</sys_created_on>
+            <sys_id>8e5f2cf4470671100230afb8036d4306</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Department (LMS)" display_value="Department (LMS)" name="x_1066037_lms_department_aj" sys_domain="global" view="Default view">fb7de074470671100230afb8036d43f5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-20 05:44:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Department (LMS)</caption>
+            <header>false</header>
+            <name>x_1066037_lms_department_aj</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-20 05:36:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fb7de074470671100230afb8036d43f5</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>x_1066037_lms_department_aj</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Leave Management System" source="x_1066037_lms">2d1f9a46473031100230afb8036d431c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Leave Management System">2d1f9a46473031100230afb8036d431c</sys_scope>
+            <sys_update_name>sys_ui_section_fb7de074470671100230afb8036d43f5</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-20 05:38:44</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

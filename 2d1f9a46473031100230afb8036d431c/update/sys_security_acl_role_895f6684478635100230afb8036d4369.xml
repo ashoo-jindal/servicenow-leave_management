@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-18 07:08:08</sys_created_on>
+        <sys_id>895f6684478635100230afb8036d4369</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1066037_lms_department.x_1066037_lms.department_user</sys_name>
+        <sys_package display_value="Leave Management System" source="x_1066037_lms">2d1f9a46473031100230afb8036d431c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management System">2d1f9a46473031100230afb8036d431c</sys_scope>
+        <sys_security_acl display_value="x_1066037_lms_department">f05f6684478635100230afb8036d4364</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_895f6684478635100230afb8036d4369</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-18 07:08:08</sys_updated_on>
+        <sys_user_role display_value="x_1066037_lms.department_user" name="x_1066037_lms.department_user">f45faac0478635100230afb8036d43ae</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
